@@ -1,0 +1,2 @@
+# BasicGApplication
+# c# project
