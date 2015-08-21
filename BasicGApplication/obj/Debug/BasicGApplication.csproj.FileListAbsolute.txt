@@ -1,0 +1,9 @@
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\bin\Debug\BasicGApplication.exe.config
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\bin\Debug\BasicGApplication.exe
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\bin\Debug\BasicGApplication.pdb
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\obj\Debug\BasicGApplication.csprojResolveAssemblyReference.cache
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\obj\Debug\BasicGApplication.Form1.resources
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\obj\Debug\BasicGApplication.Properties.Resources.resources
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\obj\Debug\BasicGApplication.csproj.GenerateResource.Cache
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\obj\Debug\BasicGApplication.exe
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\obj\Debug\BasicGApplication.pdb
