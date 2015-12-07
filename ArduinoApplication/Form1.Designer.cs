@@ -1,4 +1,4 @@
-﻿namespace BasicGApplication
+﻿namespace ArduinApplication
 {
     partial class Form1
     {

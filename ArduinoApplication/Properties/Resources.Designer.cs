@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BasicGApplication.Properties
+namespace ArduinApplication.Properties
 {
 
 

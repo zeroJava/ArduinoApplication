@@ -1,0 +1,2 @@
+C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\bin\Debug\BasicGApplication.exe.config
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\bin\Debug\BasicGApplication.exe.config
