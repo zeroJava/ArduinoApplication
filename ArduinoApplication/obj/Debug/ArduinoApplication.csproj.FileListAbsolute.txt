@@ -1,2 +1,10 @@
 C:\Users\Abu\Documents\Programming\C#\BasicGApplication\BasicGApplication\bin\Debug\BasicGApplication.exe.config
 C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\bin\Debug\BasicGApplication.exe.config
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\bin\Debug\BasicGApplication.exe
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\bin\Debug\BasicGApplication.pdb
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\obj\Debug\ArduinoApplication.csprojResolveAssemblyReference.cache
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\obj\Debug\ArduinApplication.Form1.resources
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\obj\Debug\BasicGApplication.Properties.Resources.resources
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\obj\Debug\ArduinoApplication.csproj.GenerateResource.Cache
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\obj\Debug\BasicGApplication.exe
+C:\Users\Abu\Documents\Programming\C#\ArduinoApplication\ArduinoApplication\obj\Debug\BasicGApplication.pdb
